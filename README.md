@@ -35,15 +35,17 @@ A **classificação correta** do tipo de anemia é essencial para o tratamento a
 
 ## ⚙️ Pipeline do Projeto
 
+
 ```mermaid
 graph TD
-  A[📥 Importação de Dados] --> B[🧼 Pré-processamento]
-  B --> C[📊 Separação X e y]
-  C --> D[🧠 Treinamento de Modelos (RandomForest)]
-  D --> E[🧪 Avaliação (Acurácia, F1, Confusão)]
-  E --> F[💾 Salvamento dos modelos]
-  F --> G[🔍 Predições em novos pacientes]
+  A[Importação de Dados] --> B[Pré-processamento]
+  B --> C[Separação X e y]
+  C --> D[Treinamento de Modelos com RandomForest]
+  D --> E[Avaliação: Acurácia, F1, Confusão]
+  E --> F[Salvamento do modelo]
+  F --> G[Predições em novos pacientes]
 ```
+
 
 ---
 
