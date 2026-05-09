@@ -1,0 +1,16 @@
+﻿Coluna,Tipo,Valores ausentes,Valores únicos
+WBC,float64,0,278
+LYMp,float64,0,263
+NEUTp,float64,0,267
+LYMn,float64,0,51
+NEUTn,float64,0,103
+RBC,float64,0,272
+HGB,float64,0,116
+HCT,float64,0,206
+MCV,float64,0,317
+MCH,float64,0,191
+MCHC,float64,0,126
+PLT,float64,0,291
+PDW,float64,0,104
+PCT,float64,0,40
+Diagnosis,str,0,9
