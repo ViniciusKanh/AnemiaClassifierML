@@ -1,0 +1,3 @@
+﻿cenario,descricao,n_atributos_entrada,atributos_derivados
+CBC_original,Variáveis originais do hemograma completo,14,
+CBC_com_derivados,Variáveis originais do CBC acrescidas de atributos derivados,22,Mentzer_Index; HGB_RBC_ratio; HCT_RBC_ratio; PLT_RBC_ratio; NLR; PLR; WBC_RBC_ratio; PLT_WBC_ratio

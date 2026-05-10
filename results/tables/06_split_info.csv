@@ -1,0 +1,2 @@
+﻿random_state,test_size,n_total_original,n_total_deduplicado,n_train,n_test,modelo,atributos,balanceamento,interpretabilidade,shap_disponivel,permutation_repeats,best_params
+42,0.2,1281,1232,985,247,XGBoost,CBC_original_plus_derivados,Borderline_SMOTE,permutation_importance; xgboost_native_importance; SHAP_se_disponivel,True,30,"{""n_estimators"": 400, ""learning_rate"": 0.05, ""max_depth"": 5, ""subsample"": 0.8, ""colsample_bytree"": 0.8}"

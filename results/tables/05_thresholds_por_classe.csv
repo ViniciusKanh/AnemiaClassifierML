@@ -1,0 +1,28 @@
+﻿classe_codificada,threshold,f1_ovr_validacao,precision_ovr_validacao,recall_ovr_validacao,cenario_calibracao,classe_original
+0,0.05,0.9923664122137404,0.9848484848484849,1.0,sem_calibracao,Healthy
+1,0.1,1.0,1.0,1.0,sem_calibracao,Iron deficiency anemia
+2,0.8,0.9473684210526315,0.9,1.0,sem_calibracao,Leukemia
+3,0.05,0.4,0.3333333333333333,0.5,sem_calibracao,Leukemia with thrombocytopenia
+4,0.15,1.0,1.0,1.0,sem_calibracao,Macrocytic anemia
+5,0.1,1.0,1.0,1.0,sem_calibracao,Normocytic hypochromic anemia
+6,0.15,1.0,1.0,1.0,sem_calibracao,Normocytic normochromic anemia
+7,0.45,1.0,1.0,1.0,sem_calibracao,Other microcytic anemia
+8,0.1,1.0,1.0,1.0,sem_calibracao,Thrombocytopenia
+0,0.6,1.0,1.0,1.0,sigmoid,Healthy
+1,0.35,1.0,1.0,1.0,sigmoid,Iron deficiency anemia
+2,0.1,0.9,0.8181818181818182,1.0,sigmoid,Leukemia
+3,0.05,0.0,0.0,0.0,sigmoid,Leukemia with thrombocytopenia
+4,0.3,1.0,1.0,1.0,sigmoid,Macrocytic anemia
+5,0.15,1.0,1.0,1.0,sigmoid,Normocytic hypochromic anemia
+6,0.3,1.0,1.0,1.0,sigmoid,Normocytic normochromic anemia
+7,0.4,1.0,1.0,1.0,sigmoid,Other microcytic anemia
+8,0.05,1.0,1.0,1.0,sigmoid,Thrombocytopenia
+0,0.65,1.0,1.0,1.0,isotonica,Healthy
+1,0.2,1.0,1.0,1.0,isotonica,Iron deficiency anemia
+2,0.8,0.9473684210526315,0.9,1.0,isotonica,Leukemia
+3,0.05,0.25,0.16666666666666666,0.5,isotonica,Leukemia with thrombocytopenia
+4,0.05,1.0,1.0,1.0,isotonica,Macrocytic anemia
+5,0.1,1.0,1.0,1.0,isotonica,Normocytic hypochromic anemia
+6,0.15,1.0,1.0,1.0,isotonica,Normocytic normochromic anemia
+7,0.55,1.0,1.0,1.0,isotonica,Other microcytic anemia
+8,0.1,1.0,1.0,1.0,isotonica,Thrombocytopenia

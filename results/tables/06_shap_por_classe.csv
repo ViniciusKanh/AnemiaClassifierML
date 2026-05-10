@@ -1,0 +1,199 @@
+﻿classe_codificada,classe_original,feature,mean_abs_shap,tipo
+0,Healthy,HGB,2.6265075,original
+0,Healthy,PLT,0.89020765,original
+0,Healthy,WBC_RBC_ratio,0.519385,derivado
+0,Healthy,WBC,0.44379961,original
+0,Healthy,PLT_WBC_ratio,0.32601178,derivado
+0,Healthy,RBC,0.22582714,original
+0,Healthy,PLT_RBC_ratio,0.16521189,derivado
+0,Healthy,MCH,0.14557843,original
+0,Healthy,HCT,0.07455873,original
+0,Healthy,MCHC,0.05498409,original
+0,Healthy,MCV,0.042818524,original
+0,Healthy,HGB_RBC_ratio,0.03563054,derivado
+0,Healthy,LYMp,0.022256456,original
+0,Healthy,HCT_RBC_ratio,0.019417264,derivado
+0,Healthy,PLR,0.015877659,derivado
+0,Healthy,PCT,0.014052269,original
+0,Healthy,LYMn,0.0133376885,original
+0,Healthy,Mentzer_Index,0.010310373,derivado
+0,Healthy,NLR,0.0019003514,derivado
+0,Healthy,NEUTn,0.0015853979,original
+0,Healthy,PDW,0.0013376189,original
+0,Healthy,NEUTp,0.00062222173,original
+1,Iron deficiency anemia,MCH,2.0469787,original
+1,Iron deficiency anemia,MCV,1.3393146,original
+1,Iron deficiency anemia,MCHC,0.7997846,original
+1,Iron deficiency anemia,HGB_RBC_ratio,0.300818,derivado
+1,Iron deficiency anemia,HGB,0.28041947,original
+1,Iron deficiency anemia,HCT,0.2533847,original
+1,Iron deficiency anemia,HCT_RBC_ratio,0.18746208,derivado
+1,Iron deficiency anemia,RBC,0.052660692,original
+1,Iron deficiency anemia,WBC_RBC_ratio,0.043291617,derivado
+1,Iron deficiency anemia,PLT_WBC_ratio,0.026537454,derivado
+1,Iron deficiency anemia,Mentzer_Index,0.020084023,derivado
+1,Iron deficiency anemia,LYMn,0.014783739,original
+1,Iron deficiency anemia,PLR,0.009274997,derivado
+1,Iron deficiency anemia,LYMp,0.008405525,original
+1,Iron deficiency anemia,PLT_RBC_ratio,0.008158686,derivado
+1,Iron deficiency anemia,NEUTp,0.007906999,original
+1,Iron deficiency anemia,PLT,0.0064338013,original
+1,Iron deficiency anemia,WBC,0.0039459085,original
+1,Iron deficiency anemia,PCT,0.00360407,original
+1,Iron deficiency anemia,NLR,0.0016067959,derivado
+1,Iron deficiency anemia,PDW,0.0006476961,original
+1,Iron deficiency anemia,NEUTn,0.00026710122,original
+2,Leukemia,WBC,2.4668372,original
+2,Leukemia,HGB,1.2349508,original
+2,Leukemia,RBC,0.5102773,original
+2,Leukemia,PLT,0.39480427,original
+2,Leukemia,WBC_RBC_ratio,0.30491588,derivado
+2,Leukemia,PLT_WBC_ratio,0.06588873,derivado
+2,Leukemia,PLT_RBC_ratio,0.052227564,derivado
+2,Leukemia,PLR,0.048033092,derivado
+2,Leukemia,PCT,0.038037412,original
+2,Leukemia,Mentzer_Index,0.031538732,derivado
+2,Leukemia,HGB_RBC_ratio,0.018575896,derivado
+2,Leukemia,HCT,0.01761579,original
+2,Leukemia,HCT_RBC_ratio,0.01720909,derivado
+2,Leukemia,MCH,0.014131463,original
+2,Leukemia,NEUTp,0.008729845,original
+2,Leukemia,LYMn,0.0061211972,original
+2,Leukemia,MCHC,0.0020087298,original
+2,Leukemia,MCV,0.0017562786,original
+2,Leukemia,LYMp,0.0004035681,original
+2,Leukemia,NEUTn,0.0003478017,original
+2,Leukemia,PDW,0.0,original
+2,Leukemia,NLR,0.0,derivado
+3,Leukemia with thrombocytopenia,PLT_WBC_ratio,1.2417867,derivado
+3,Leukemia with thrombocytopenia,NEUTn,0.7061359,original
+3,Leukemia with thrombocytopenia,PLT_RBC_ratio,0.5697217,derivado
+3,Leukemia with thrombocytopenia,WBC,0.5381857,original
+3,Leukemia with thrombocytopenia,NLR,0.40733817,derivado
+3,Leukemia with thrombocytopenia,RBC,0.3022358,original
+3,Leukemia with thrombocytopenia,HGB,0.23859139,original
+3,Leukemia with thrombocytopenia,HCT,0.15998115,original
+3,Leukemia with thrombocytopenia,PCT,0.093232036,original
+3,Leukemia with thrombocytopenia,PLT,0.07766491,original
+3,Leukemia with thrombocytopenia,PLR,0.065606475,derivado
+3,Leukemia with thrombocytopenia,MCV,0.048339967,original
+3,Leukemia with thrombocytopenia,WBC_RBC_ratio,0.04580444,derivado
+3,Leukemia with thrombocytopenia,HCT_RBC_ratio,0.036993667,derivado
+3,Leukemia with thrombocytopenia,LYMp,0.024055598,original
+3,Leukemia with thrombocytopenia,MCHC,0.01573234,original
+3,Leukemia with thrombocytopenia,LYMn,0.010694972,original
+3,Leukemia with thrombocytopenia,Mentzer_Index,0.00889161,derivado
+3,Leukemia with thrombocytopenia,PDW,0.0034598943,original
+3,Leukemia with thrombocytopenia,MCH,0.00211756,original
+3,Leukemia with thrombocytopenia,HGB_RBC_ratio,0.0020988986,derivado
+3,Leukemia with thrombocytopenia,NEUTp,0.00041933672,original
+4,Macrocytic anemia,MCV,2.4842708,original
+4,Macrocytic anemia,Mentzer_Index,0.7379439,derivado
+4,Macrocytic anemia,RBC,0.45102713,original
+4,Macrocytic anemia,HGB,0.12956631,original
+4,Macrocytic anemia,MCH,0.09012549,original
+4,Macrocytic anemia,HGB_RBC_ratio,0.04882824,derivado
+4,Macrocytic anemia,MCHC,0.019836249,original
+4,Macrocytic anemia,PLR,0.016127964,derivado
+4,Macrocytic anemia,WBC,0.010759287,original
+4,Macrocytic anemia,HCT_RBC_ratio,0.004624481,derivado
+4,Macrocytic anemia,PLT_RBC_ratio,0.00068865786,derivado
+4,Macrocytic anemia,WBC_RBC_ratio,0.0006726798,derivado
+4,Macrocytic anemia,PLT,0.00047842172,original
+4,Macrocytic anemia,PLT_WBC_ratio,0.00047668617,derivado
+4,Macrocytic anemia,NEUTn,0.0,original
+4,Macrocytic anemia,LYMn,0.0,original
+4,Macrocytic anemia,NEUTp,0.0,original
+4,Macrocytic anemia,LYMp,0.0,original
+4,Macrocytic anemia,PCT,0.0,original
+4,Macrocytic anemia,PDW,0.0,original
+4,Macrocytic anemia,HCT,0.0,original
+4,Macrocytic anemia,NLR,0.0,derivado
+5,Normocytic hypochromic anemia,MCHC,1.4045416,original
+5,Normocytic hypochromic anemia,HGB,1.0671849,original
+5,Normocytic hypochromic anemia,MCH,0.81886095,original
+5,Normocytic hypochromic anemia,MCV,0.7720243,original
+5,Normocytic hypochromic anemia,Mentzer_Index,0.38930085,derivado
+5,Normocytic hypochromic anemia,RBC,0.31638786,original
+5,Normocytic hypochromic anemia,HCT_RBC_ratio,0.1771587,derivado
+5,Normocytic hypochromic anemia,WBC_RBC_ratio,0.12826252,derivado
+5,Normocytic hypochromic anemia,PLT,0.099411674,original
+5,Normocytic hypochromic anemia,HCT,0.09465264,original
+5,Normocytic hypochromic anemia,HGB_RBC_ratio,0.07896458,derivado
+5,Normocytic hypochromic anemia,NLR,0.02823035,derivado
+5,Normocytic hypochromic anemia,PLT_WBC_ratio,0.027517112,derivado
+5,Normocytic hypochromic anemia,PLR,0.025077922,derivado
+5,Normocytic hypochromic anemia,PLT_RBC_ratio,0.019533027,derivado
+5,Normocytic hypochromic anemia,WBC,0.011087414,original
+5,Normocytic hypochromic anemia,PDW,0.009600423,original
+5,Normocytic hypochromic anemia,NEUTp,0.0038326841,original
+5,Normocytic hypochromic anemia,PCT,0.0023660213,original
+5,Normocytic hypochromic anemia,LYMn,0.0019706616,original
+5,Normocytic hypochromic anemia,NEUTn,0.0019326401,original
+5,Normocytic hypochromic anemia,LYMp,0.00084222824,original
+6,Normocytic normochromic anemia,MCHC,1.6385232,original
+6,Normocytic normochromic anemia,HGB,1.2667844,original
+6,Normocytic normochromic anemia,MCH,0.6778326,original
+6,Normocytic normochromic anemia,Mentzer_Index,0.4391109,derivado
+6,Normocytic normochromic anemia,MCV,0.37601617,original
+6,Normocytic normochromic anemia,PLT_WBC_ratio,0.19146459,derivado
+6,Normocytic normochromic anemia,HCT_RBC_ratio,0.16874737,derivado
+6,Normocytic normochromic anemia,PLT_RBC_ratio,0.14052862,derivado
+6,Normocytic normochromic anemia,RBC,0.12616259,original
+6,Normocytic normochromic anemia,HCT,0.0696436,original
+6,Normocytic normochromic anemia,PLR,0.06447875,derivado
+6,Normocytic normochromic anemia,WBC_RBC_ratio,0.053919554,derivado
+6,Normocytic normochromic anemia,WBC,0.050437093,original
+6,Normocytic normochromic anemia,PDW,0.04746839,original
+6,Normocytic normochromic anemia,PLT,0.039677918,original
+6,Normocytic normochromic anemia,HGB_RBC_ratio,0.021581015,derivado
+6,Normocytic normochromic anemia,PCT,0.008961716,original
+6,Normocytic normochromic anemia,NEUTp,0.008192549,original
+6,Normocytic normochromic anemia,LYMn,0.0063616144,original
+6,Normocytic normochromic anemia,LYMp,0.0054813195,original
+6,Normocytic normochromic anemia,NLR,0.0043347417,derivado
+6,Normocytic normochromic anemia,NEUTn,0.0,original
+7,Other microcytic anemia,MCV,2.0726628,original
+7,Other microcytic anemia,PLR,0.9724356,derivado
+7,Other microcytic anemia,MCHC,0.6540628,original
+7,Other microcytic anemia,HGB,0.35681063,original
+7,Other microcytic anemia,PLT,0.29535878,original
+7,Other microcytic anemia,HCT,0.18947041,original
+7,Other microcytic anemia,RBC,0.13313073,original
+7,Other microcytic anemia,HCT_RBC_ratio,0.12013998,derivado
+7,Other microcytic anemia,Mentzer_Index,0.11241812,derivado
+7,Other microcytic anemia,NEUTp,0.10739195,original
+7,Other microcytic anemia,MCH,0.093760654,original
+7,Other microcytic anemia,PLT_WBC_ratio,0.08258199,derivado
+7,Other microcytic anemia,HGB_RBC_ratio,0.08032887,derivado
+7,Other microcytic anemia,PCT,0.074910566,original
+7,Other microcytic anemia,NLR,0.063961804,derivado
+7,Other microcytic anemia,WBC_RBC_ratio,0.05793476,derivado
+7,Other microcytic anemia,LYMn,0.018956706,original
+7,Other microcytic anemia,WBC,0.011862037,original
+7,Other microcytic anemia,PLT_RBC_ratio,0.0105840685,derivado
+7,Other microcytic anemia,NEUTn,0.0062839165,original
+7,Other microcytic anemia,PDW,0.005775763,original
+7,Other microcytic anemia,LYMp,0.0021821822,original
+8,Thrombocytopenia,PLT,2.3908439,original
+8,Thrombocytopenia,HGB,1.4789871,original
+8,Thrombocytopenia,WBC_RBC_ratio,0.45985642,derivado
+8,Thrombocytopenia,WBC,0.29087356,original
+8,Thrombocytopenia,PLT_RBC_ratio,0.20159677,derivado
+8,Thrombocytopenia,HCT,0.18460388,original
+8,Thrombocytopenia,PCT,0.12416142,original
+8,Thrombocytopenia,MCHC,0.097699665,original
+8,Thrombocytopenia,HGB_RBC_ratio,0.080306984,derivado
+8,Thrombocytopenia,PLT_WBC_ratio,0.070007496,derivado
+8,Thrombocytopenia,MCV,0.06563837,original
+8,Thrombocytopenia,RBC,0.06334745,original
+8,Thrombocytopenia,PLR,0.06186662,derivado
+8,Thrombocytopenia,MCH,0.033333838,original
+8,Thrombocytopenia,LYMn,0.028151838,original
+8,Thrombocytopenia,LYMp,0.018485207,original
+8,Thrombocytopenia,Mentzer_Index,0.015279112,derivado
+8,Thrombocytopenia,HCT_RBC_ratio,0.013383797,derivado
+8,Thrombocytopenia,PDW,0.0067928983,original
+8,Thrombocytopenia,NEUTn,0.0063126464,original
+8,Thrombocytopenia,NLR,0.0027957847,derivado
+8,Thrombocytopenia,NEUTp,0.0017901764,original

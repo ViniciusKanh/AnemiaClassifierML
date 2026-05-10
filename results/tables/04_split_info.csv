@@ -1,0 +1,2 @@
+﻿random_state,test_size,n_total_original,n_total_deduplicado,n_train,n_test,criterio_selecao,cenario_atributos,modelos_avaliados,estrategias_avaliadas,melhor_modelo,melhor_estrategia,xgboost_disponivel
+42,0.2,1281,1232,985,247,f1_macro,CBC_original_plus_atributos_derivados,XGBoost,sem_balanceamento; class_weight; SMOTE; Borderline_SMOTE; SMOTE_ENN,XGBoost,Borderline_SMOTE,True

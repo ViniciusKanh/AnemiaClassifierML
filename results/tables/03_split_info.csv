@@ -1,0 +1,2 @@
+﻿random_state,test_size,n_total_original,n_total_deduplicado,n_train,n_test,criterio_selecao,cenarios_avaliados,xgboost_disponivel
+42,0.2,1281,1232,985,247,f1_macro,CBC_original; CBC_com_derivados,True

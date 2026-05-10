@@ -1,0 +1,46 @@
+﻿classe_codificada,classe_original,feature,mean_abs_shap,tipo
+0,Healthy,HGB,2.6265075,original
+0,Healthy,PLT,0.89020765,original
+0,Healthy,WBC_RBC_ratio,0.519385,derivado
+0,Healthy,WBC,0.44379961,original
+0,Healthy,PLT_WBC_ratio,0.32601178,derivado
+1,Iron deficiency anemia,MCH,2.0469787,original
+1,Iron deficiency anemia,MCV,1.3393146,original
+1,Iron deficiency anemia,MCHC,0.7997846,original
+1,Iron deficiency anemia,HGB_RBC_ratio,0.300818,derivado
+1,Iron deficiency anemia,HGB,0.28041947,original
+2,Leukemia,WBC,2.4668372,original
+2,Leukemia,HGB,1.2349508,original
+2,Leukemia,RBC,0.5102773,original
+2,Leukemia,PLT,0.39480427,original
+2,Leukemia,WBC_RBC_ratio,0.30491588,derivado
+3,Leukemia with thrombocytopenia,PLT_WBC_ratio,1.2417867,derivado
+3,Leukemia with thrombocytopenia,NEUTn,0.7061359,original
+3,Leukemia with thrombocytopenia,PLT_RBC_ratio,0.5697217,derivado
+3,Leukemia with thrombocytopenia,WBC,0.5381857,original
+3,Leukemia with thrombocytopenia,NLR,0.40733817,derivado
+4,Macrocytic anemia,MCV,2.4842708,original
+4,Macrocytic anemia,Mentzer_Index,0.7379439,derivado
+4,Macrocytic anemia,RBC,0.45102713,original
+4,Macrocytic anemia,HGB,0.12956631,original
+4,Macrocytic anemia,MCH,0.09012549,original
+5,Normocytic hypochromic anemia,MCHC,1.4045416,original
+5,Normocytic hypochromic anemia,HGB,1.0671849,original
+5,Normocytic hypochromic anemia,MCH,0.81886095,original
+5,Normocytic hypochromic anemia,MCV,0.7720243,original
+5,Normocytic hypochromic anemia,Mentzer_Index,0.38930085,derivado
+6,Normocytic normochromic anemia,MCHC,1.6385232,original
+6,Normocytic normochromic anemia,HGB,1.2667844,original
+6,Normocytic normochromic anemia,MCH,0.6778326,original
+6,Normocytic normochromic anemia,Mentzer_Index,0.4391109,derivado
+6,Normocytic normochromic anemia,MCV,0.37601617,original
+7,Other microcytic anemia,MCV,2.0726628,original
+7,Other microcytic anemia,PLR,0.9724356,derivado
+7,Other microcytic anemia,MCHC,0.6540628,original
+7,Other microcytic anemia,HGB,0.35681063,original
+7,Other microcytic anemia,PLT,0.29535878,original
+8,Thrombocytopenia,PLT,2.3908439,original
+8,Thrombocytopenia,HGB,1.4789871,original
+8,Thrombocytopenia,WBC_RBC_ratio,0.45985642,derivado
+8,Thrombocytopenia,WBC,0.29087356,original
+8,Thrombocytopenia,PLT_RBC_ratio,0.20159677,derivado

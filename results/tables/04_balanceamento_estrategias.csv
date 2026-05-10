@@ -1,0 +1,6 @@
+﻿estrategia,descricao,usa_reamostragem,usa_ponderacao
+sem_balanceamento,Sem balanceamento explícito,False,False
+class_weight,Ponderação por classe ou pesos amostrais balanceados,False,True
+SMOTE,SMOTE com k_neighbors=1 aplicado apenas no treino,True,False
+Borderline_SMOTE,Borderline-SMOTE aplicado apenas no treino,True,False
+SMOTE_ENN,SMOTE-ENN aplicado apenas no treino,True,False

@@ -1,0 +1,2 @@
+﻿random_state,test_size,n_total_original,n_total_deduplicado,n_train,n_test,criterio_selecao,melhor_modelo_f1_macro,xgboost_disponivel
+42,0.2,1281,1232,985,247,f1_macro,XGBoost,True

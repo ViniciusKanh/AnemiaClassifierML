@@ -1,0 +1,4 @@
+﻿tipo,cenario_calibracao,criterio,f1_macro,recall_macro,brier_multiclass,ece,coverage,abstention_rate
+argmax,isotonica,maior_f1_macro_argmax,0.9233242186186599,0.9364398586620809,0.04618832496157814,0.02109045668455365,1.0,0.0
+limiares_por_classe,isotonica,maior_f1_macro_com_limiares,0.9233242186186599,0.9364398586620809,0.04618832496157814,0.02109045668455365,1.0,0.0
+abstencao_assistida,sem_calibracao,probabilidade_maxima,0.9564270152505446,0.9444444444444444,,,0.9473684210526315,0.05263157894736842

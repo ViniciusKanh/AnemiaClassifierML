@@ -1,0 +1,2 @@
+﻿modelo,atributos,balanceamento,accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,roc_auc_macro_ovr,pr_auc_macro_ovr,brier_multiclass
+XGBoost,CBC_original_plus_derivados,Borderline_SMOTE,0.979757085020243,0.9253287475509698,0.9261158594491928,0.9253287475509698,0.9101584288564685,0.9803695080380957,0.9981661630759427,0.9233884308268502,0.032514683875249764
